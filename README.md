@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👯 I’m looking to collaborate on weight loss mobile apps
 
+🌱 I’m currently relearning the GIS analysis skills, this time with QGIS
